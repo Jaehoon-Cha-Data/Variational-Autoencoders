@@ -3,13 +3,13 @@
 Created on Mon Sep  9 18:46:28 2019
 
 @author: jaehooncha
+
+@email: chajaehoon79@gmail.com
+
+dataset class
 """
 import tensorflow as tf
 import numpy as np
-#import matplotlib.pyplot as plt
-
-#fashion_mnist = tf.keras.datasets.fashion_mnist
-#(train_images, train_labels), (test_images, test_labels) = fashion_mnist.load_data()
 
 
     
