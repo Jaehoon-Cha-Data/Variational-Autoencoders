@@ -3,13 +3,13 @@
  
 VAE results with Latent dimension: 2, Epochs: 2000 and Learning rate: 0.0005
 
-| First Header  | Second Header |
+| Hyper-parameters  | Values |
 | ------------- | ------------- |
 | Latent dimension  | 2 |
 | Learning rate  | 0.0005  |
 | Epochs  | 2000  |
 
-Latent space
+2d-Latent space
 
 <img src="https://user-images.githubusercontent.com/55184529/64687519-3d11e080-d4bd-11e9-8ca9-437907f35328.png"  width="500" height="500">
 
