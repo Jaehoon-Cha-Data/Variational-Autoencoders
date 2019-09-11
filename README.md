@@ -15,5 +15,5 @@ VAE results
 
 Corresponding generative outputs
 
-<img src="https://user-images.githubusercontent.com/55184529/64687521-3d11e080-d4bd-11e9-8398-b9118d76d8f1.png"  width="500" height="500">
+<img src="https://user-images.githubusercontent.com/55184529/64687521-3d11e080-d4bd-11e9-8398-b9118d76d8f1.png"  width="400" height="400">
 
