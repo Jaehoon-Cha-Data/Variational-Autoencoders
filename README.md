@@ -3,10 +3,9 @@
  
 VAE results with Latent dimension: 2, Epochs: 2000 and Learning rate: 0.0005
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Latent dimension  | 2 |
+| Learning rate  | 0.0005  |
+| Epochs  | 2000  |
 
 Latent space
 
