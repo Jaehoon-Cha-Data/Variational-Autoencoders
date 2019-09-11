@@ -30,7 +30,7 @@ def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--model_name', type = str, default = 'VAE')
     parser.add_argument('--datasets', type = str, default = 'MNIST')
-    parser.add_argument('--epochs', type = int, default = 5)
+    parser.add_argument('--epochs', type = int, default = 2000)
     parser.add_argument('--batch_size', type = int, default = 128)
     parser.add_argument('--base_lr', type = float, default = 0.0005)
     parser.add_argument('--n_input', type = int, default = 784)
