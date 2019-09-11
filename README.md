@@ -2,6 +2,7 @@
  autoencoders (dimensionality reduction) and variational autoencoders (generative model)
  
 VAE results with Latent dimension: 2, Epochs: 2000 and Learning rate: 0.0005
+
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
