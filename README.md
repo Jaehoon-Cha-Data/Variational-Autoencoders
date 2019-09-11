@@ -5,7 +5,7 @@ VAE results with Latent dimension: 2, Epochs: 2000 and Learning rate: 0.0005
 
 Latent space
 
-![latent_1999](https://user-images.githubusercontent.com/55184529/64687519-3d11e080-d4bd-11e9-8ca9-437907f35328.png=100x20)
+![latent_1999](https://user-images.githubusercontent.com/55184529/64687519-3d11e080-d4bd-11e9-8ca9-437907f35328.png =100x20)
 
 Corresponding generative outputs
 
