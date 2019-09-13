@@ -81,7 +81,7 @@ class Mnist(object):
         else:
             self.index_in_epoch += batch_size
             end = self.index_in_epoch
-            epoch_x, epoch_y = self._train_images[start:end], self.train_labels[start:end]
+            epoch_x, epoch_y = self._train_images[start:end], self._train_labels[start:end]
             return epoch_x, epoch_y
 
     def next_test_batch(self, batch_size, shuffle=True):
@@ -99,6 +99,6 @@ class Mnist(object):
         else:
             self.index_in_epoch += batch_size
             end = self.index_in_epoch
-            epoch_x, epoch_y = self._test_images[start:end], self.test_labels[start:end]
+            epoch_x, epoch_y = self._test_images[start:end], self._test_labels[start:end]
             return epoch_x, epoch_y
         
