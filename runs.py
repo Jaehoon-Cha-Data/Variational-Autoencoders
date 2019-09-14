@@ -55,10 +55,13 @@ def parse_args():
     
 config = parse_args()
 
+
+### call data ###
 mnist = Mnist()
 n_samples = mnist.num_examples 
 
 
+### call models ###
 if config['model_name'] == 'AE':
     print('Run AE')
     model = AE(config['n_input'], config['n_output'], config['archi'])   
@@ -67,6 +70,7 @@ elif config['model_name'] == 'VAE':
     model = VAE(config['n_input'], config['n_output'], config['archi'])
 
 
+### make folder ###
 mother_folder = config['model_name']
 try:
     os.mkdir(mother_folder)
@@ -74,6 +78,7 @@ except OSError:
     pass    
 
 
+### outputs ###
 latent, reconstr, loss = model.Forward()
 
 lr = config['base_lr']
@@ -110,7 +115,7 @@ with tf.Session() as sess:
             writer.add_summary(s, global_step=iteration)
             epoch_loss += c/iter_per_epoch
             iteration+=1
-        print('Epoch', epoch, 'completedd out of', config['epochs'], 'loss:', epoch_loss)
+        print('Epoch', epoch, 'completed out of', config['epochs'], 'loss:', epoch_loss)
         
         if epoch % 50 == 0:
             saver.save(sess, model_save_name, global_step=epoch)    
