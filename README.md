@@ -42,3 +42,11 @@ Conditional-VAE results
 <img src="https://user-images.githubusercontent.com/55184529/71986100-c8a93d00-3223-11ea-916b-817a6962641e.png"  width="450" height="400">
 <img src="https://user-images.githubusercontent.com/55184529/71986107-ca730080-3223-11ea-877b-ecf237d95df3.png"  width="400" height="400">
 </p>
+
+# FASHION-MNIST DATASET
+
+2d-Latent space and its corresponding generative outputs
+<p float="left">
+<img src="https://user-images.githubusercontent.com/55184529/71988809-7880a980-3228-11ea-9945-42a58f21925a.png"  width="450" height="400">
+<img src="https://user-images.githubusercontent.com/55184529/71988811-7880a980-3228-11ea-85b2-af8902ea6f37.png"  width="400" height="400">
+</p>
