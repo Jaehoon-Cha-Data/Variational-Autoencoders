@@ -32,3 +32,13 @@ VAE results
 <img src="https://user-images.githubusercontent.com/55184529/64867761-98d09b00-d670-11e9-922e-426ff7d8f98c.png"  width="450" height="400">
 <img src="https://user-images.githubusercontent.com/55184529/64867762-99693180-d670-11e9-9f94-a0cca182e106.png"  width="400" height="400">
 </p>
+
+Conditional-VAE results
+
+# MNIST DATASET
+
+2d-Latent space and its corresponding generative outputs
+<p float="left">
+<img src="https://user-images.githubusercontent.com/55184529/71986100-c8a93d00-3223-11ea-916b-817a6962641e.png"  width="450" height="400">
+<img src="https://user-images.githubusercontent.com/55184529/71986107-ca730080-3223-11ea-877b-ecf237d95df3.png"  width="400" height="400">
+</p>
