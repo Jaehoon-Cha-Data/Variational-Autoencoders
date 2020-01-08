@@ -47,6 +47,6 @@ Conditional-VAE results
 
 2d-Latent space and its corresponding generative outputs
 <p float="left">
-<img src="https://user-images.githubusercontent.com/55184529/71988809-7880a980-3228-11ea-9945-42a58f21925a.png"  width="450" height="400">
-<img src="https://user-images.githubusercontent.com/55184529/71988811-7880a980-3228-11ea-85b2-af8902ea6f37.png"  width="400" height="400">
+<img src="https://user-images.githubusercontent.com/55184529/71988811-7880a980-3228-11ea-85b2-af8902ea6f37.png"  width="450" height="400">
+<img src="https://user-images.githubusercontent.com/55184529/71988809-7880a980-3228-11ea-9945-42a58f21925a.png"  width="400" height="400">
 </p>
