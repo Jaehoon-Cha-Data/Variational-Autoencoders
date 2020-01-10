@@ -50,3 +50,21 @@ Conditional-VAE results
 <img src="https://user-images.githubusercontent.com/55184529/71988811-7880a980-3228-11ea-85b2-af8902ea6f37.png"  width="450" height="400">
 <img src="https://user-images.githubusercontent.com/55184529/71988809-7880a980-3228-11ea-9945-42a58f21925a.png"  width="400" height="400">
 </p>
+
+MMD-VAE results
+
+# MNIST DATASET
+
+2d-Latent space and its corresponding generative outputs
+<p float="left">
+<img src="https://user-images.githubusercontent.com/55184529/72156157-b9a1c680-33ac-11ea-9d8a-e93e895f807d.png"  width="450" height="400">
+<img src="https://user-images.githubusercontent.com/55184529/72156156-b9a1c680-33ac-11ea-844f-d6c26c5ac738.png"  width="400" height="400">
+</p>
+
+# FASHION-MNIST DATASET
+
+2d-Latent space and its corresponding generative outputs
+<p float="left">
+<img src="https://user-images.githubusercontent.com/55184529/72156216-e7870b00-33ac-11ea-8fa1-91c43c80bc09.png"  width="450" height="400">
+<img src="https://user-images.githubusercontent.com/55184529/72156215-e6ee7480-33ac-11ea-817d-bfb670aea3e1.png"  width="400" height="400">
+</p>
